@@ -1,0 +1,9 @@
+npm init webpack-simple vue-cli (replace vue-cli with project name)
+
+cd vue-cli
+
+npm install
+
+npm run dev
+
+visit http://localhost:8080/
